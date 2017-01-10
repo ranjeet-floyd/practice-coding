@@ -15,7 +15,7 @@ import java.util.Objects;
  * <p>
  * @author ranjeet
  */
-public class C1_Solution_2_4 {
+public class C1 {
 
     public static void main(String[] args) {
         LinkedList head = createLinkedList();
