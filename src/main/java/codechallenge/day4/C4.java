@@ -16,7 +16,7 @@ import java.util.Stack;
  * <p>
  * @author ranjeet
  */
-public class C5 {
+public class C4 {
 
     public static void main(String[] args) {
         LinkedList head = new LinkedList(0);
