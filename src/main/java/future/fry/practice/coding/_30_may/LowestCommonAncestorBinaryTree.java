@@ -1,4 +1,4 @@
-package future.fry.practice.coding._30_jun;
+package future.fry.practice.coding._30_may;
 
 import java.util.ArrayList;
 import java.util.List;
